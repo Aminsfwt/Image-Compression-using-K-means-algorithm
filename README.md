@@ -13,4 +13,6 @@ In this part, you will use the K-means algorithm to select the 16 colors that wi
 
 Concretely, you will treat every pixel in the original image as a data example and use the K-means algorithm to find the 16 colors that best group (cluster) the pixels in the 3- 3-dimensional RGB space.
 Once you have computed the cluster centroids on the image, you will then use the 16 colors to replace the pixels in the original image.
+
+
 ![bird_small](https://github.com/user-attachments/assets/53f03ceb-1a5d-40d1-8712-d242a9de49fd)
